@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NirajTiwari7/MyTextUtil.git/static/css/main.073c9b0a.css",
-    "main.js": "/NirajTiwari7/MyTextUtil.git/static/js/main.e2a3df9c.js",
+    "main.js": "/NirajTiwari7/MyTextUtil.git/static/js/main.d4ad55b4.js",
     "static/js/787.28cb0dcd.chunk.js": "/NirajTiwari7/MyTextUtil.git/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/NirajTiwari7/MyTextUtil.git/index.html",
     "main.073c9b0a.css.map": "/NirajTiwari7/MyTextUtil.git/static/css/main.073c9b0a.css.map",
-    "main.e2a3df9c.js.map": "/NirajTiwari7/MyTextUtil.git/static/js/main.e2a3df9c.js.map",
+    "main.d4ad55b4.js.map": "/NirajTiwari7/MyTextUtil.git/static/js/main.d4ad55b4.js.map",
     "787.28cb0dcd.chunk.js.map": "/NirajTiwari7/MyTextUtil.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e2a3df9c.js"
+    "static/js/main.d4ad55b4.js"
   ]
 }
